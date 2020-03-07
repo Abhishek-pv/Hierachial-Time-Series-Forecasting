@@ -1,5 +1,7 @@
 # doppler
+
 ***
+
 > Automatic Hierarchical Time-Series Forecast at different Aggregation Levels
 
 ## Table of contents
@@ -24,6 +26,6 @@
 ## Roadmap
 [:arrow_up: Back to top](#table-of-contents)
 
-- [] Task 1
+- [ ] Task 1
 - [x] Task 2
-- [] Task 3
+- [ ] Task 3
