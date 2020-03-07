@@ -1,0 +1,19 @@
+name: cmpt732a3
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - cassandra-driver
+  - pandas
+  - matplotlib
+  - scikit-image
+  - seaborn
+  - notebook
+  - scikit-learn
+  - lime
+  - shap=0.34
+  - featuretools
+  - statsmodels
+  - workalendar
+prefix: /Users/digi/anaconda3/envs/cmpt732a3
+
