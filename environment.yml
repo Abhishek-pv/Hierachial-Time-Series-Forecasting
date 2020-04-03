@@ -18,9 +18,9 @@ dependencies:
   - workalendar
   - plotly
   - fbprophet
+  - natsort
   - pip
   - pip:
     - pmdarima
-    - natsort
 prefix: /Users/digi/anaconda3/envs/forecast
 
