@@ -21,5 +21,6 @@ dependencies:
   - pip
   - pip:
     - pmdarima
+    - natsort
 prefix: /Users/digi/anaconda3/envs/forecast
 
