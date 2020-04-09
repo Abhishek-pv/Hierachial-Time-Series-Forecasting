@@ -1,20 +1,26 @@
-name: cmpt732a3
+name: forecast
 channels:
-  - conda-forge
   - defaults
+  - conda-forge
 dependencies:
   - python=3.7
-  - cassandra-driver
+  - notebook
   - pandas
   - matplotlib
+  - scikit-learn
   - scikit-image
   - seaborn
-  - notebook
-  - scikit-learn
+  - cassandra-driver
   - lime
   - shap=0.34
   - featuretools
   - statsmodels
   - workalendar
-prefix: /Users/digi/anaconda3/envs/cmpt732a3
+  - plotly
+  - fbprophet
+  - natsort
+  - pip
+  - pip:
+    - pmdarima
+prefix: /Users/digi/anaconda3/envs/forecast
 
