@@ -19,7 +19,7 @@ $ conda create --name forecast
 [Frontend](https://github.com/sachwithgithub/doppler-frontend)
 
 #### Contributers
-##### Team: Deep Learners RIAS
+##### Team: Deep Learners
 - [Ria Gupta (Ria312)](https://github.com/Ria312)
 - [Abhishek PV (Abhishek-pv)](https://github.com/Abhishek-pv)
 - [Ishan Sahay (VWJF)](https://github.com/VWJF)
