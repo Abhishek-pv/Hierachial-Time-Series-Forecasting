@@ -33,6 +33,12 @@ Due to an NDA agreement with our industry partner, we cannot share the data sour
 
 ![data science pipeline][docs/pipeline.png]
 
+#### Video
+https://www.youtube.com/channel/UChgkiNv7qe2DbhzFW4AK6qQ/
+
+[![doppler](http://img.youtube.com/vi/UChgkiNv7qe2DbhzFW4AK6qQ/0.jpg)](https://www.youtube.com/channel/UChgkiNv7qe2DbhzFW4AK6qQ/)
+
+
 ***
 
 ## Roadmap
