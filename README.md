@@ -16,7 +16,7 @@ $ conda create --name forecast
 
 #### User Interface
 
-[Frontend] https://github.com/sachwithgithub/doppler-frontend
+[Frontend](https://github.com/sachwithgithub/doppler-frontend)
 
 #### Contributers
 ##### Team: Deep Learners RIAS
